@@ -1,0 +1,13 @@
+# Ignore Virtual Environment (Very Important!)
+venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code Settings
+.vscode/
+
+# Optional: Ignore heavy dataset videos if you have them
+# (Keep data.csv and model.pkl so others can run your app!)
